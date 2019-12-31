@@ -9,7 +9,7 @@ author_profile: true
 * LinkedIn: [balrajashwath](https://www.linkedin.com/in/balrajashwath/)
 * GitHub: [BalrajAshwath](https://github.com/BalrajAshwath)
 * StackOverflow: [balraj-ashwath](https://stackoverflow.com/users/10451628/balraj-ashwath)
-* Google Scholar: [author:Balraj Ashwath](https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en)
+* Google Scholar: [Balraj Ashwath](https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en)
 * LeetCode: [balraj_ashwath](https://leetcode.com/balraj_ashwath/)
 * HackerRank: [balrajashwath98](https://www.hackerrank.com/balrajashwath98)
 * Academia.edu: [BalrajAshwath](https://nitk.academia.edu/BalrajAshwath)

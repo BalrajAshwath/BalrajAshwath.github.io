@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Balraj Ashwath"
   avatar           : "my_pic_github.jpg"
-  bio              : "Passionate about AI Research! ML Engineer / Data Scientist at Microland; Research Intern at <a style='color: black;' href='http://val.serc.iisc.ernet.in/valweb/people.html'>Video Analytics Lab, IISc</a>; <a style='color: black'; NITK ECE Grad."
+  bio              : "Passionate about AI Research! ML Engineer / Data Scientist at <a style='color: black;' href='https://www.microland.com/'>Microland</a>; Research Intern at <a style='color: black;' href='http://val.serc.iisc.ernet.in/valweb/people.html'>Video Analytics Lab, IISc</a>"
   location         : "Bengaluru"
   employer         : # "ML Engineer/ Data Scientist @Microland"
   linkedin         : "balrajashwath"
