@@ -90,7 +90,7 @@ author:
   github           : "BalrajAshwath"  
   researchgate     : "https://www.researchgate.net/profile/Balraj_Ashwath" # example: "https://www.researchgate.net/profile/yourprofile"
   googlescholar    : "https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-2790-788X" # "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0002-2790-788X" # "http://orcid.org/yourorcidurl"
   email            : "balrajashwath98gmail.com"
   twitter          : "AshwathBalraj"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
