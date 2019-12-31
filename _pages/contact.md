@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* E-mail: balrajashwath98 [at] gmail.com
+* E-mail: balrajashwath98 [at] gmail [dot] com
 * LinkedIn: [balrajashwath](https://www.linkedin.com/in/balrajashwath/)
 * GitHub: [BalrajAshwath](https://github.com/BalrajAshwath)
 * StackOverflow: [balraj-ashwath](https://stackoverflow.com/users/10451628/balraj-ashwath)
