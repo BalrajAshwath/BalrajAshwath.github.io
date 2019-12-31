@@ -14,3 +14,4 @@ author_profile: true
 * HackerRank: [balrajashwath98](https://www.hackerrank.com/balrajashwath98)
 * Academia.edu: [BalrajAshwath](https://nitk.academia.edu/BalrajAshwath)
 * Twitter: [AshwathBalraj](https://twitter.com/AshwathBalraj)
+* Medium: [@balrajashwath98](https://medium.com/@balrajashwath98)
