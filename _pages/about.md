@@ -14,4 +14,4 @@ Warm Greetings! I am **Balraj Ashwath**, currently working as a Machine Learning
 
 
 ### Update
-I'll soon be writing *blog posts* and start adding *projects* related to Computer Vision / NLP / RL and other topics related to Deep Learning to help contribute to open-source and keep myself updated about the latest AI research.
+I'll soon be writing *blog posts* and add *projects* related to Computer Vision / NLP / RL and other topics related to Deep Learning to help contribute to open-source and keep myself updated about the latest AI research.
