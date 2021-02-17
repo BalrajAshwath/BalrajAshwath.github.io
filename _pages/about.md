@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+I'm a Data Scientist / Machine Learning Engineer at Microland. I work on developing Machine Learning & Natural Language Processing pipelines for text-based analysis and learning for a cloud-based AIOps platform.
 
-Warm Greetings! I am **Balraj Ashwath**, currently working as a Machine Learning Engineer / Data Scientist at [Microland](https://www.microland.com/). I am a Deep Learning researcher at [Video Analytics Lab (VAL)](http://val.serc.iisc.ernet.in/valweb), Indian Institute of Science where I work on Computer Vision (CV) & High Dynamic Range (HDR) Imagery. I pursued my undergraduate in [Electronics and Communications Engineering](https://ece.nitk.ac.in/) from [National Institute of Technology Karnataka, Surathkal (NITK)](https://www.nitk.ac.in/). Prior to joining VAL I was an undergraduate researcher at [Image Processing and Analytics Lab (IPAL)](https://www.researchgate.net/lab/Image-Processing-and-Analysis-Laboratory-IPAL-Dr-Shyam-Lal) where my research was based on CV & Semantic Segmentation. My primary research interests are in Deep Learning, Computer Vision, Natural Language Processing & Domain Adaptation and actively read about the latest advancements in other domains in AI. In my free time, I blog about algorithms that are related to my research interests.
+Previously, I was a Research Intern at [Video Analytics Lab (VAL)](http://val.serc.iisc.ernet.in/valweb), Indian Institute of Science where I worked with [Dr. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/) & [Dr. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) on developing High Dynamic Range (HDR) Image fusion models based on CNNs for HDR Image Deghosting .
 
+I pursued my Bachelors in [Electronics and Communications Engineering](https://ece.nitk.ac.in/) from [National Institute of Technology Karnataka, Surathkal (NITK)](https://www.nitk.ac.in/). Here I did my thesis with [Dr. Shyam Lal](https://ece.nitk.ac.in/faculty/shyam-lal) in image segmentation methods on satellite imagery.
 
-### Update
-I'll be soon writing *blog posts* and start adding *projects* related to Computer Vision / NLP / RL and other Deep Learning topics on this site with the goal of contributing to open-source and keeping myself updated on the latest AI research. Visit again soon!
+Research Interests
+==================
+Computer Vision, Deep Learning, Medical Imaging, Natural Language Processing
