@@ -14,6 +14,8 @@ Previously, I was a Research Intern at [Video Analytics Lab (VAL)](https://val.c
 
 I pursued my Bachelors in [Electronics and Communications Engineering](https://ece.nitk.ac.in/) from [National Institute of Technology Karnataka, Surathkal (NITK)](https://www.nitk.ac.in/). Here I did my thesis with [Dr. Shyam Lal](https://ece.nitk.ac.in/faculty/shyam-lal) in image segmentation methods on satellite imagery.
 
+I am excited about research problems involving the design of efficient architectures for solving various Computer Vision problems such as detection/segmentation/classification in different imaging domains.
+
 Research Interests
 ==================
 Computer Vision, Deep Learning, Medical Imaging, Natural Language Processing
