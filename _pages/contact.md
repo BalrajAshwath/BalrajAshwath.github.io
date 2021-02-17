@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-* [E-mail](mailto:balrajashwath98@gmail.com)
+* [Email](mailto:balrajashwath98@gmail.com)
 * [Google Scholar](https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/balrajashwath/)
 * [Kaggle](https://www.kaggle.com/balraj98)
