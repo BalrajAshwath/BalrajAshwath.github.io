@@ -84,9 +84,9 @@ author:
   avatar           : "my_pic_github.jpg"
   bio              : "ML Researcher / Data Scientist"
   location         : "Bengaluru, India"
-  employer         : "Microland"
+#   employer         : "Microland"
   linkedin         : "balrajashwath"
-  stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
+#   stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
   github           : "BalrajAshwath"
   researchgate     : "https://www.researchgate.net/profile/Balraj_Ashwath" # example: "https://www.researchgate.net/profile/yourprofile"
   googlescholar    : "https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en"
