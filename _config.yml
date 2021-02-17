@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Balraj Ashwath"
 title_separator          : "-"
 name                     : &name "Balraj Ashwath"
-description              : &description "Passionate about AI Research!"
+description              : &description "AI Researcher / Data Scientist"
 url                      : https://balrajashwath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BalrajAshwath/BalrajAshwath.github.io"
@@ -82,17 +82,17 @@ analytics:
 author:
   name             : "Balraj Ashwath"
   avatar           : "my_pic_github.jpg"
-  bio              : "Passionate about AI Research! ML Engineer / Data Scientist at <a style='color: black;' href='https://www.microland.com/'>Microland</a>; Research Intern at <a style='color: black;' href='http://val.serc.iisc.ernet.in/valweb/people.html'>Video Analytics Lab, IISc</a>"
+  bio              : "ML Researcher / Data Scientist"
   location         : "Bengaluru"
   employer         : # "ML Engineer/ Data Scientist @Microland"
   linkedin         : "balrajashwath"
-  stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
-  github           : "BalrajAshwath"  
-  researchgate     : "https://www.researchgate.net/profile/Balraj_Ashwath" # example: "https://www.researchgate.net/profile/yourprofile"
+#   stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
+  github           : "BalrajAshwath"
+#   researchgate     : "https://www.researchgate.net/profile/Balraj_Ashwath" # example: "https://www.researchgate.net/profile/yourprofile"
   googlescholar    : "https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en"
   orcid            : # "https://orcid.org/0000-0002-2790-788X" # "http://orcid.org/yourorcidurl"
-  email            : "balrajashwath98gmail.com"
-  twitter          : "AshwathBalraj"
+  email            : "balrajashwath98@gmail.com"
+#   twitter          : "AshwathBalraj"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   uri              :
   bitbucket        :
