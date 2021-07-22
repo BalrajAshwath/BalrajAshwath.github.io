@@ -18,4 +18,4 @@ I am excited about research problems involving the design of efficient architect
 
 Research Interests
 ==================
-Computer Vision, Deep Learning, Medical Imaging, Natural Language Processing
+Computer Vision, Deep Learning, Natural Language Processing, AI
