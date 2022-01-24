@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Balraj's Webpage"
 title_separator          : "-"
 name                     : &name "Balraj Ashwath"
-description              : &description "AI Researcher / Data Scientist"
+description              : &description "ML Engineer / Data Scientist"
 url                      : https://balrajashwath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BalrajAshwath/BalrajAshwath.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Balraj Ashwath"
-  avatar           : "my_pic_github.jpg"
+  avatar           : "my_pic_github.png"
   bio              : "ML Researcher / Data Scientist"
   location         : "Bengaluru, India"
 #   employer         : "Microland"

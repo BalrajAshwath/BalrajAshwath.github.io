@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an ML Engineer / ML Researcher / Data Scientist with 3+ years of experience in building, testing and deploying ML models across various domains including Natural Language Processing, Computer Vision & Time-series modeling.
+I'm an ML Engineer / ML Researcher / Data Scientist with 3+ years of experience in building, testing and deploying ML models across various domains including Natural Language Processing, Computer Vision & Time-series modeling. I currently work at Microland building ML features for a cloud-based AIOps platform.
 
 Previously, I was a Research Intern at [Video Analytics Lab (VAL)](https://val.cds.iisc.ac.in/index.html), Indian Institute of Science where I worked with [Dr. Ram Prabhakar](https://sites.google.com/view/kramprabhakar/) and [Dr. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) on High Dynamic Range (HDR) Image Deghosting using CNNs.
 
