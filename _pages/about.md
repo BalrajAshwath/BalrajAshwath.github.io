@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Senior Machine Learning Engineer with 7 years of experience spanning computer vision research, large language models, and the AI infrastructure that brings them into the enterprise.
 
-At [ServiceNow](https://www.servicenow.com/), I've been a core contributor to the **MCP Server** — a platform, built from the ground up, that exposes enterprise AI capabilities to MCP clients like Claude and ServiceNow's AI Agent Studio. Earlier at ServiceNow, I worked on synthetic data generation and large-scale evaluation for the internal NowLLM foundation models, and before that on improving Now Assist AI skills in production.
+At [ServiceNow](https://www.servicenow.com/), I've been a core contributor to the [MCP Server](https://store.servicenow.com/store/app/6e521bf447713e9482f632c4f16d434e) — a platform, built from the ground up, that exposes enterprise AI capabilities to MCP clients like Claude and ServiceNow's AI Agent Studio. Earlier at ServiceNow, I worked on synthetic data generation and large-scale evaluation for the internal NowLLM foundation models, and before that on improving Now Assist AI skills in production.
 
 Before ServiceNow, I worked on model optimization and quantization for AI inference accelerators at [Qualcomm](https://www.qualcomm.com/), and built forecasting, anomaly-detection, and NLP systems at [Microland](https://www.microland.com/).
 

@@ -84,7 +84,7 @@ author:
   avatar           : "my_pic_github.png"
   bio              : "Senior ML Engineer | LLMs, Agentic AI, Computer Vision"
   location         : "Bengaluru, India"
-  employer         : "ServiceNow"
+#   employer         : "ServiceNow"
   linkedin         : "balrajashwath"
   stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
   github           : "BalrajAshwath"
