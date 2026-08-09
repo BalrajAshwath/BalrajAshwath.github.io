@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Balraj's Webpage"
 title_separator          : "-"
 name                     : &name "Balraj Ashwath"
-description              : &description "ML Engineer / Data Scientist"
+description              : &description "Senior ML Engineer | LLMs, Agentic AI, Computer Vision"
 url                      : https://balrajashwath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BalrajAshwath/BalrajAshwath.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Balraj Ashwath"
   avatar           : "my_pic_github.png"
-  bio              : "ML Engineer / Data Scientist"
+  bio              : "Senior ML Engineer | LLMs, Agentic AI, Computer Vision"
   location         : "Bengaluru, India"
-#   employer         : "Microland"
+  employer         : "ServiceNow"
   linkedin         : "balrajashwath"
-#   stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "10451628/balraj-ashwath" # http://stackoverflow.com/users/123456/username
   github           : "BalrajAshwath"
   researchgate     : "https://www.researchgate.net/profile/Balraj_Ashwath" # example: "https://www.researchgate.net/profile/yourprofile"
   googlescholar    : "https://scholar.google.co.in/citations?user=5Da3hUUAAAAJ&hl=en"
